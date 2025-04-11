@@ -1,0 +1,193 @@
+[33mcommit a319fea7019da437606ac0a42c6bd6227f691969[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32maaron[m[33m, [m[1;31morigin/aaron[m[33m)[m
+Merge: 34ac320 e3ff5dd
+Author: Aaron arias <aaron.cordoba17@gmail.com>
+Date:   Thu Apr 10 21:19:33 2025 -0300
+
+    Merge branch 'dev_Casula1' of https://github.com/UserPepe12/djangoxd into aaron
+
+[33mcommit 34ac320ce92148e2724757c29ed03e4ed6a84136[m
+Author: Aaron arias <aaron.cordoba17@gmail.com>
+Date:   Thu Apr 10 21:11:02 2025 -0300
+
+    primer commt aaron
+
+[33mcommit e3ff5dd1668914b2c87ec89c94b144a5d398a937[m[33m ([m[1;31morigin/dev_Casula1[m[33m)[m
+Author: ignaciocasula <nachocasula@gmail.com>
+Date:   Thu Apr 10 19:58:29 2025 -0300
+
+    Revert "Agregue un archivo txt otra vez"
+    
+    This reverts commit 718a62a1c0711bfef27a834ebef3acafaf6776a9.
+
+[33mcommit 7550758e5fd633348ddf209b6058ff445347590a[m[33m ([m[1;32mmain[m[33m)[m
+Merge: 9db5dfe d101cb7
+Author: UserPepe12 <cuentaparapp9@gmail.com>
+Date:   Thu Apr 10 19:46:49 2025 -0300
+
+    Merge pull request #7 from UserPepe12/tutorial
+    
+    LOL
+
+[33mcommit d101cb7afb664998254e709c5ddee6a4cff9fbdd[m[33m ([m[1;31morigin/tutorial[m[33m)[m
+Author: elio <eliosuffikpo@gmail.com>
+Date:   Thu Apr 10 19:42:26 2025 -0300
+
+    LOL
+
+[33mcommit 9db5dfed99503f2c0717b5280323c126735d3844[m
+Merge: fc50fb7 718a62a
+Author: IgnacioCasula <nachocasula@gmail.com>
+Date:   Thu Apr 10 19:41:09 2025 -0300
+
+    Merge pull request #6 from UserPepe12/dev_Casula1
+    
+    Dev casula1
+
+[33mcommit fc50fb7f78976cc4c587b7f0652ab57e123ca953[m
+Merge: 21a520f 5f5636d
+Author: facuherrera23 <41000647+facuherrera23@users.noreply.github.com>
+Date:   Thu Apr 10 19:40:50 2025 -0300
+
+    Merge pull request #5 from UserPepe12/Facu
+    
+    Facu
+
+[33mcommit 5f5636d98dfa248a75b47a0ee5931aa073c79e1c[m[33m ([m[1;31morigin/Facu[m[33m)[m
+Author: Oso <hfacundo45@gmail.com>
+Date:   Thu Apr 10 23:39:05 2025 -0300
+
+    MiPrimerCommit
+
+[33mcommit c081291bc59de685dd71641ae81788e4fd66c7cc[m
+Author: Oso <hfacundo45@gmail.com>
+Date:   Thu Apr 10 23:37:43 2025 -0300
+
+    MiPrimerCommit
+
+[33mcommit 718a62a1c0711bfef27a834ebef3acafaf6776a9[m
+Author: ignaciocasula <nachocasula@gmail.com>
+Date:   Thu Apr 10 19:39:20 2025 -0300
+
+    Agregue un archivo txt otra vez
+
+[33mcommit cecad46353e0f856ea32d7af161066e5addaf72e[m
+Author: ignaciocasula <nachocasula@gmail.com>
+Date:   Thu Apr 10 19:13:30 2025 -0300
+
+    Agrego un archivo txt
+
+[33mcommit 21a520f40e083244a0d6426987543ba32c659acf[m
+Merge: ab37537 a1e40ea
+Author: UserPepe12 <cuentaparapp9@gmail.com>
+Date:   Thu Apr 10 12:28:03 2025 -0700
+
+    Merge pull request #4 from UserPepe12/tutorial
+    
+    Tutorial
+
+[33mcommit a1e40ea5e0c66cd1b390b249a0f55eb0eb733e17[m
+Author: 777-Nata-777 <jtejerina51@gmail.com>
+Date:   Thu Apr 10 15:42:11 2025 -0300
+
+    Revert "Editado prueba.txt - agregada segunda línea"
+    
+    This reverts commit 2c984e9130b46894fcfedec1b41ab41e5cfc4c62.
+
+[33mcommit 2c984e9130b46894fcfedec1b41ab41e5cfc4c62[m
+Author: 777-Nata-777 <jtejerina51@gmail.com>
+Date:   Thu Apr 10 15:41:19 2025 -0300
+
+    Editado prueba.txt - agregada segunda línea
+
+[33mcommit 5b4413bf5ed710d56b7f79c4c5609332afb7c88f[m
+Author: 777-Nata-777 <jtejerina51@gmail.com>
+Date:   Thu Apr 10 15:40:29 2025 -0300
+
+    Agregado archivo prueba.txt
+
+[33mcommit a8ca4b2a46887e41df560885045af5c2a2b4ae3a[m
+Author: 777-Nata-777 <jtejerina51@gmail.com>
+Date:   Thu Apr 10 15:09:12 2025 -0300
+
+    trabajo en progreso
+
+[33mcommit 587bbd40b62e12b740e1488a25f8731507db00da[m
+Author: 777-Nata-777 <jtejerina51@gmail.com>
+Date:   Thu Apr 10 14:34:08 2025 -0300
+
+    error
+
+[33mcommit dadfd46ea7e61745e1bdabaeec09054997a837c9[m
+Author: 777-Nata-777 <jtejerina51@gmail.com>
+Date:   Thu Apr 10 14:32:02 2025 -0300
+
+    probando el revert
+
+[33mcommit ab37537f93efedd73c0eaae064053e7ee490b132[m
+Merge: 7a7fc7c 61fc8c6
+Author: UserPepe12 <cuentaparapp9@gmail.com>
+Date:   Wed Apr 9 18:05:38 2025 -0700
+
+    Merge pull request #3 from UserPepe12/tutorial
+    
+    Tutorial
+
+[33mcommit 61fc8c6370f757243e55fd3bea2a5dad0e49c632[m
+Author: 777-Nata-777 <jtejerina51@gmail.com>
+Date:   Wed Apr 9 22:04:17 2025 -0700
+
+    definitivo
+
+[33mcommit 3c7f8abcdfec69c3b2ea253b559f593f1c3e5a45[m
+Author: 777-Nata-777 <jtejerina51@gmail.com>
+Date:   Wed Apr 9 21:54:59 2025 -0700
+
+    hay no
+
+[33mcommit 591d3a4980339c71504d946b649b42ff439ac260[m
+Author: 777-Nata-777 <jtejerina51@gmail.com>
+Date:   Wed Apr 9 21:53:18 2025 -0700
+
+    el este o el oeste
+
+[33mcommit 7a7fc7c470d0e618adf3d0fee7779884f5efca41[m
+Merge: aeefaa8 b1ef96e
+Author: UserPepe12 <cuentaparapp9@gmail.com>
+Date:   Wed Apr 9 15:29:08 2025 -0700
+
+    Merge pull request #2 from UserPepe12/tutorial
+    
+    Tutorial
+
+[33mcommit b1ef96ee19f865162949abf7e7c5cf4c3cbfbcbb[m
+Author: 777-Nata-777 <jtejerina51@gmail.com>
+Date:   Wed Apr 9 19:23:10 2025 -0700
+
+    wazaaaaaa!
+
+[33mcommit 6284bc2ab38a2679a7d9d271181ddb517059fa2e[m
+Merge: 4800a62 aeefaa8
+Author: UserPepe12 <cuentaparapp9@gmail.com>
+Date:   Wed Apr 9 17:23:29 2025 -0300
+
+    Merge pull request #1 from UserPepe12/main
+    
+    agragalo sapo perro
+
+[33mcommit aeefaa84bcc00a695141e34fb1f47f0748595fd6[m
+Author: UserPepe12 <cuentaparapp9@gmail.com>
+Date:   Wed Apr 9 16:32:06 2025 -0300
+
+    agragalo sapo perro
+
+[33mcommit 4800a624b4c6064ec57c97a98b7992c263a421ae[m
+Author: Nata <cuentaparapp9@gmail.com>
+Date:   Tue Apr 8 20:38:26 2025 -0300
+
+    Primer commit - Proyecto Django inicial
+
+[33mcommit abbad958982fc8eeb759a802fd33ebc5216a6990[m
+Author: UserPepe12 <cuentaparapp9@gmail.com>
+Date:   Tue Apr 8 19:48:43 2025 -0300
+
+    Initial commit
